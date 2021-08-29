@@ -1,0 +1,6 @@
+github.com/Daniel-iel/goarea v0.0.0-20210808225710-adae35d9ffdf h1:SvJw50drc833937vq549pefdpkcXTiFO38j46ONzR1c=
+github.com/Daniel-iel/goarea v0.0.0-20210808225710-adae35d9ffdf/go.mod h1:pcCWDOnh2EA94wiKXdeSGvZPL51yp3zSviXfuohF+uk=
+github.com/Daniel-iel/html v0.0.0-20210829191708-631d11a11bb4 h1:jOdKSClB63FXwE7eFptKUI7wp1EOopt0lXOW36WRo0w=
+github.com/Daniel-iel/html v0.0.0-20210829191708-631d11a11bb4/go.mod h1:OYg86bU8bMFJCV0krIgFPVV5EyAooV9/wNDPdapgQU8=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
